@@ -1,6 +1,6 @@
 
-<image align="center" alt="coding" width="200" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
-
+<div align="center"><img align="center" alt="coding" width="200" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
+</div>
 <h1 align="center">👋Hi!! I'm Wafi Alam Fathema</h1>
 <h3 align="center">I'm currently in the learning phase, exploring the world of full-stack development and competitive programming. I love experimenting with code, building small projects, and continuously improving my skills.</h3>
 
