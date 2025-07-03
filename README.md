@@ -2,15 +2,15 @@
 <div align="center"><img align="center" alt="coding" width="200" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
 </div>
 <h1 align="center">👋Hi!! I'm Wafi Alam Fathema</h1>
-<h3 align="center">I'm currently in the learning phase, exploring the world of full-stack development and competitive programming. I love experimenting with code, building small projects, and continuously improving my skills.</h3>
+<h3 align="center">👋 Hi there! Passionate about Full-Stack Development and Competitive Programming. I enjoy building projects, writing clean code, and continuously learning.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wafi-hub&label=Profile%20views&color=0e75b6&style=flat" alt="wafi-hub" /> </p>
 
 
 
-<h3 align="center">- 📫 How to reach me: wafifathema03@gmail.com</h3>
+<h3 align="center">-📫 How to reach me: wafifathema03@gmail.com</h3>
 
-<h3 align="center">- ⚡ Fun fact: I love turning ideas into scalable web solutions and when I’m not coding, you’ll find me capturing moments through photography or expressing creativity through painting!</h3>
+<h3 align="center">-⚡ Fun fact: I love turning ideas into scalable web solutions and when I’m not coding, you’ll find me capturing moments through photography or expressing creativity through painting!</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -19,6 +19,10 @@
 <a href="https://instagram.com/bit_by_wafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bit_by_wafi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/wafi_fathema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="wafi_fathema" height="30" width="40" /></a>
 </p>
+
+
+<h3 align="center">Languages and Tools:</h3>
+
 
 <h4 align="center">Database System:</h4>
 <div align="center">
