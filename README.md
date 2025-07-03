@@ -89,3 +89,10 @@
   
 
 ###
+
+<h2 align="center">✨ Thank You for Visiting! ✨</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="Thank You" width="300" />
+</p>
+<p align="center">Feel free to connect with me and explore my work! 🚀</p>
+
