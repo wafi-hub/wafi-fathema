@@ -1,16 +1,16 @@
 
 <image align="center" alt="coding" width="200" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
 
-<h1 align="center">👋Hi!! I'm Wafi Alam Fathema.</h1>
+<h1 align="center">👋Hi!! I'm Wafi Alam Fathema</h1>
 <h3 align="center">I'm currently in the learning phase, exploring the world of full-stack development and competitive programming. I love experimenting with code, building small projects, and continuously improving my skills.</h3>
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wafi-hub&label=Profile%20views&color=0e75b6&style=flat" alt="wafi-hub" /> </p>
 
 
-<h3 align="center">- 📫 How to reach me: *wafifathema03@gmail.com*</h3>
 
-<h3 align="center">- ⚡ Fun fact: *I love turning ideas into scalable web solutions and when I’m not coding, you’ll find me capturing moments through photography or expressing creativity through painting!*</h3>
+<h3 align="center">- 📫 How to reach me: wafifathema03@gmail.com</h3>
+
+<h3 align="center">- ⚡ Fun fact: I love turning ideas into scalable web solutions and when I’m not coding, you’ll find me capturing moments through photography or expressing creativity through painting!</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
